@@ -1,3 +1,15 @@
+![Visitor Count](https://profile-counter.glitch.me/Mgodoyd/count.svg)
+<div style="text-align: right">
+<img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
+</div>
+
+# Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+</p>
+
 <div align="center">
   <a href="https://github.com/Mgodoyd">
   <img height="141em" src="https://github-readme-stats.vercel.app/api?username=Mgodoyd&&show_icons=true&title_color=008000&icon_color=ffff00&text_color=daf7dc&bg_color=000000"/>
@@ -18,6 +30,8 @@
 </div>
   
   ##
+  
+  ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
