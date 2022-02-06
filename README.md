@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Mgodoyd">
   <img height="141em" src="https://github-readme-stats.vercel.app/api?username=Mgodoyd&&show_icons=true&title_color=008000&icon_color=ffff00&text_color=daf7dc&bg_color=000000"/>
-     <img height="136em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&layout=compact&langs_count=7&theme=008000"/>
     
   
 
