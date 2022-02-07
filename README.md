@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/Mgodoyd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mgodoyd&&show_icons=true&title_color=008000&icon_color=ffff00&text_color=daf7dc&bg_color=000000"/>
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Mgodoyd&theme=ads-juicy-fresh&date_format=j%2Fn%5B%2FY%5D"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mgodoyd&&show_icons=true&title_color=008000&icon_color=ffff00&text_color=daf7dc&bg_color=000000"/>
+   <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=Mgodoyd&theme=ads-juicy-fresh&date_format=j%2Fn%5B%2FY%5D"/>
  
 </div>
 <div style="display: inline_block"><br>
