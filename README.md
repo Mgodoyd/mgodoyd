@@ -33,6 +33,30 @@
 <a href = "mailto:godoymario110@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mario-godoy-43927a1a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
   </div>
+  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const vedant = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    technologies: {
+        backEnd: {
+           
+        },
+        databases: ["oracle", "MySql", "sql"],
+        misc: ["Firebase"]
+    },
+    currentFocus: "Java",
+    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
+          The second byte replies, 'No, just feeling a bit off.'"
+};
+```
+<br>
+
+----
+<br>
