@@ -42,7 +42,7 @@
 ```javascript
 const vedant = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+    code: ["java", "kotlin","C++","HTML", "CSS","MySQL"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
