@@ -14,7 +14,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mgodoyd&&show_icons=true&title_color=00FF00&icon_color=ffff00&text_color=daf7dc&bg_color=000000"/>
    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=Mgodoyd&theme=dark&date_format=j%2Fn%5B%2FY%5D&currStreakNum=FCFFB3FE&background=000000&border=FFFFFF&stroke=42DD00&ring=1ADD05&fire=07DD01&sideNums=37DD0E&currStreakLabel=34DD01&sideLabels=23DD07&dates=D0DD5E"/>
     <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&&show_icons=true&title_color=00FF00&icon_color=ffff00&text_color=daf7dc&bg_color=000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&&show_icons=true&title_color=00FF00&icon_color=ffff00&text_color=ffff00&bg_color=000000" />
 </a>
 </div>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
