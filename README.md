@@ -31,8 +31,10 @@
 <h2>Certifications</h2>
 
 <p>
-<a href="https://www.credly.com/badges/09dd04c5-fe12-4268-85e5-2a01e28164dc/"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"/></a>
+<a href="/"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"/></a>
+<a href="https://www.credly.com/badges/0f80e887-244e-4dac-b87c-e9715098e05f/public_url"><img src="https://images.credly.com/size/110x110/images/ef699df2-09c7-42f1-84ab-710d5aa45373/Scrum-Master-Professional-Certificate-SMPC_-2020.png" alt="Scrum Master Professional Certificate - SMPC®"/></a>
 </p>
+
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="9%"> </h2>
 
