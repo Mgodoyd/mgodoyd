@@ -27,6 +27,7 @@
   <img align="center" alt="Rafa-HTML" height="25" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Rafa-CSS" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Rafa-CSS" height="40" width="40"  src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" />
           
 </div>
 
