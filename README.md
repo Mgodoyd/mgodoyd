@@ -26,6 +26,8 @@
   <img align="center" alt="Rafa-CSS" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Rafa-HTML" height="25" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+          
 </div>
 
 <h2>Certifications</h2>
