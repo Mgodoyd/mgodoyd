@@ -1,8 +1,3 @@
-
-<div style="text-align: right">
-    <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
-</div>
-
 # Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="center">
