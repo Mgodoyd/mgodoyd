@@ -15,7 +15,7 @@
 
 <p align="center">
     <img align="center" style="margin-top: -50rem" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mgodoyd&theme=chartreuse_dark&" width="650">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mgodoyd&theme=chartreuse_dark&" width="600">
 </p>
 
 
