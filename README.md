@@ -87,7 +87,7 @@
   </kbd>
 </p>
 
-<h2>Certifications</h2>
+<h3>Certifications</h3>
 
 <p>
 <a href="/"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"/></a>
