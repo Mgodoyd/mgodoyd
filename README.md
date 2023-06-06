@@ -96,12 +96,23 @@
 
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="9%"> </h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div> 
-<a href="https://youtube.com/channel/UCmSFFu8wDCzCMtep984yH7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:godoymario110@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mario-godoy-43927a1a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+  
+<p align="center">
+   <div align="center"  class="icons-social" style="margin-left: 10px;">
+     <a href="https://www.linkedin.com/in/mario-godoy-43927a1a5/" style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+		   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+     <a href="https://github.com/Mgodoyd" style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	   <a  href = "mailto:godoymario110@gmail.com" style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+				<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+	   <a href="https://youtube.com/channel/UCmSFFu8wDCzCMtep984yH7w" style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+   </div>
+</p>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
