@@ -9,16 +9,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mgodoyd&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
+<p align="center">
+    <img align="center" style="margin-top: -50rem" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mgodoyd&theme=chartreuse_dark&" width="650">
+</p>
 
 
-<div align="center">
-    <a href="https://github.com/Mgodoyd">
-    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&&show_icons=true&title_color=00FF00&icon_color=ffff00&text_color=ffff00&bg_color=000000&hide_border=false"/>
-  </a>
-</div>
-  
+
+
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4%></h2>
 <div style="display: inline_block"><br>
