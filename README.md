@@ -1,9 +1,17 @@
 ![header](https://media.licdn.com/dms/image/C4D16AQGBAINMu60vhw/profile-displaybackgroundimage-shrink_350_1400/0/1659618641473?e=1691625600&v=beta&t=4Qjp5ePTczw_fuYEyx6BIfoKB6kxrQMojsKRIEM07aE)
-# Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  Hi there, I'm Mario, <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 </p>
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mgodoyd&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+
 
 <div align="center">
     <a href="https://github.com/Mgodoyd">
