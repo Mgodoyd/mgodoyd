@@ -116,11 +116,13 @@
 </p>
 
 <img  src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
+<h2 align ="center">Show some ❤️ by starring ⭐ some of the repositories!</h2>
+
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
  
- ### Show some ❤️ by starring ⭐ some of the repositories!
+
  
 
 
