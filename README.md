@@ -13,9 +13,9 @@
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mgodoyd&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mgodoyd&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mgodoyd&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mgodoyd&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mgodoyd&theme=github_dark)|
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|<img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&text_color=FFFFFF&bg_color=AEB6BF&title_color=blue&langs_count=20&layout=compact&hide_border=true" />
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mgodoyd&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mgodoyd&theme=github_dark)|<img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&text_color=FFFFFF&bg_color=0e1116&title_color=blue&langs_count=50&layout=compact&hide_border=true" />
 
 
 
