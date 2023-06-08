@@ -100,7 +100,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-  
+
 <p align="center">
    <div align="center"  class="icons-social" style="margin-left: 10px;">
      <a href="https://www.linkedin.com/in/mario-godoy-43927a1a5/" style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
@@ -110,13 +110,17 @@
 	   <a  href = "mailto:godoymario110@gmail.com" style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 				<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
 	   <a href="https://youtube.com/channel/UCmSFFu8wDCzCMtep984yH7w" style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
    </div>
 </p>
+
+<img  src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
+ 
+ ### Show some ❤️ by starring ⭐ some of the repositories!
  
 
 
