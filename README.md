@@ -10,13 +10,13 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mgodoyd&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-<p align="center">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mgodoyd&theme=chartreuse_dark&" width="580">
-</p>
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgodoyd&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4%></h2>
