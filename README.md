@@ -11,6 +11,9 @@
 
 - 🤝 I’m available for freelancing. 
 - :school: I am a `Junior` at Faculty of Systems Engineering
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for a new `job opportunity`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
