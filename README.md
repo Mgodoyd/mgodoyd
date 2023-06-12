@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
 </p>
 
+- 🤝 I’m available for freelancing. 
+- :school: I am a `Junior` at Faculty of Systems Engineering
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mgodoyd&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
