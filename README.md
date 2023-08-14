@@ -1,4 +1,5 @@
-![header](https://media.licdn.com/dms/image/C4D16AQGBAINMu60vhw/profile-displaybackgroundimage-shrink_350_1400/0/1659618641473?e=1691625600&v=beta&t=4Qjp5ePTczw_fuYEyx6BIfoKB6kxrQMojsKRIEM07aE)
+<img src="fondogithub.jpg" alt="Texto alternativo de la imagen" width="100%">
+
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
