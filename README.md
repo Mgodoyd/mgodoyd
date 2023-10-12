@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  Hi there, I'm Mario, <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+   Hi there, I'm Mario <!--<img src=https://media.giphy.com/media/4zjsxv80Vq8eY/giphy.gif width="500"> -->
 </h1>
 
 <p align="center">
@@ -128,8 +128,8 @@
   
 <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrea-liliana/andrea-liliana/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgodoyd/andrea-liliana/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mgodoyd/andrea-liliana/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
