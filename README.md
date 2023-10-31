@@ -111,13 +111,13 @@
 
 <p align="center">
    <div align="center"  class="icons-social" style="margin-left: 10px;">
-     <a href="https://www.linkedin.com/in/mario-godoy-43927a1a5/" style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+     <a href="https://www.linkedin.com/in/mario-godoy-43927a1a5/" style="margin-left: 10px;"  target="_blank">
 		   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
      <a href="https://github.com/Mgodoyd" style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a  href = "mailto:godoymario110@gmail.com" style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-				<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-	   <a href="https://youtube.com/channel/UCmSFFu8wDCzCMtep984yH7w" style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+     <a  href = "mailto:godoymario110@gmail.com" style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+		   <img src="https://img.icons8.com/doodle/1x/email--v2.png"></a>
+     <a href="https://youtube.com/channel/UCmSFFu8wDCzCMtep984yH7w" style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
       <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
    </div>
