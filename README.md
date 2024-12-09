@@ -100,6 +100,7 @@
 <p>
 <a href="/"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"  width="82" /></a>
 <a href="https://www.credly.com/badges/0f80e887-244e-4dac-b87c-e9715098e05f/public_url"><img src="scrummasterlogo.png" alt="Scrum Master Professional Certificate - SMPC®"  width="82" /></a>
+<a href="https://www.credly.com/badges/e2e080a1-c0ac-40fe-8d2a-0bf58fef5dee/public_url"><img src="github.png" alt="Scrum Master Professional Certificate - SMPC®"  width="82" /></a>
 </p>
 
   
