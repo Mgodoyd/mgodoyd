@@ -30,7 +30,7 @@
 <table>
 <tr>
 <!-- COLUMNA IZQUIERDA: muñeco -->
-<td width="28%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
   <img src="octocat-readme.png" alt="octocat" width="100%" />
 </td>
 
