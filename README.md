@@ -152,13 +152,54 @@
 </td>
 </tr>
 
-<!-- FILA DE ABAJO: certificaciones (ocupa las 2 columnas) -->
+
+<!-- FILA DE ABAJO: CERTIFICATIONS -->
 <tr>
 <td colspan="2" align="center">
   <h3>Certifications</h3>
-  <a href="/"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals"  width="82" /></a><a href="https://www.credly.com/badges/0f80e887-244e-4dac-b87c-e9715098e05f/public_url"><img src="scrummasterlogo.png" alt="Scrum Master Professional Certificate - SMPC®"  width="82" /></a><a href="https://www.credly.com/badges/e2e080a1-c0ac-40fe-8d2a-0bf58fef5dee/public_url"><img src="github.png" alt="Scrum Master Professional Certificate - SMPC®"  width="82" /></a><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="82" /><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1BC011C6835AB051074C4A4E3F81F2CAB8773B7E68890156F02188092963CC51"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VKuHKcCnRoucxufmUzXoGlzTZiMzpxD5qEKTxP_V5ytbSESE7M-j9DnC" alt="Agentic AI Certified Foundations Associate - Oracle" width="82" /></a>
+
+  <!-- Primera fila: 4 certificaciones -->
+  <p align="center">
+    <a href="/">
+      <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="82" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/0f80e887-244e-4dac-b87c-e9715098e05f/public_url">
+      <img src="scrummasterlogo.png" alt="Scrum Master Professional Certificate" width="82" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/e2e080a1-c0ac-40fe-8d2a-0bf58fef5dee/public_url">
+      <img src="github.png" alt="GitHub Certification" width="82" />
+    </a>
+    &nbsp;&nbsp;
+    <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS AI Practitioner" width="82" />
+  </p>
+
+  <!-- Segunda fila: 5 certificaciones -->
+  <p align="center">
+    <a href="https://www.credly.com/badges/f191c6c2-d7cd-488b-a383-a447db1b6c54/public_url">
+      <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="82" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/badges/c9a2ad6c-99ca-4a7a-b1fd-78f237166df1/public_url">
+      <img src="https://images.credly.com/size/160x160/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Architect Foundations" width="82" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/badges/54e269d1-bbdb-4674-81d2-30a54aacfe79/public_url">
+      <img src="https://images.credly.com/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" alt="Claude Developer Foundations" width="82" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/badges/b58dc99a-e7d3-464e-9d10-90537e02b08e/public_url">
+      <img src="https://images.credly.com/images/85a28eb6-654c-4b2a-8940-e4b2ce807ff8/blob" alt="Claude Developer Professional" width="82" />
+    </a>
+    &nbsp;
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1BC011C6835AB051074C4A4E3F81F2CAB8773B7E68890156F02188092963CC51">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VKuHKcCnRoucxufmUzXoGlzTZiMzpxD5qEKTxP_V5ytbSESE7M-j9DnC" alt="Oracle Agentic AI Foundations" width="82" />
+    </a>
+  </p>
 </td>
 </tr>
+
 </table>
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="9%"> </h2>
